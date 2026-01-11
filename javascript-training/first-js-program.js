@@ -11,3 +11,4 @@ console.error('Error');
 */ 
 //  Shift+Alt+A to comment multiple lines
 //  Ctrl + / 
+g
